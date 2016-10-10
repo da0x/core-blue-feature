@@ -1,0 +1,6 @@
+framework module Pods_BlueFeature {
+  umbrella header "Pods-BlueFeature-umbrella.h"
+
+  export *
+  module * { export * }
+}
