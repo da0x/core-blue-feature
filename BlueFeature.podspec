@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source       = { :git => "https://github.com/daher-alfawares/core-blue-feature.git", :tag => "#{s.version}" }
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source_files  = "Feature/**/*.{swift}"
+  s.source_files  = "BlueFeature/**/*.{swift}"
   s.exclude_files = "Classes/Exclude"
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.resources = "BlueFeature/*.{png,jpeg,jpg,storyboard,xib}"
