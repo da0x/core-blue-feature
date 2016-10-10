@@ -13,7 +13,7 @@
 		4FE516661DAC165D00670741 /* BlueFeatureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE516651DAC165D00670741 /* BlueFeatureTests.swift */; };
 		4FE516681DAC165D00670741 /* BlueFeature.h in Headers */ = {isa = PBXBuildFile; fileRef = 4FE5165A1DAC165D00670741 /* BlueFeature.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4FE5169A1DAC1CA000670741 /* Blue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE516991DAC1CA000670741 /* Blue.swift */; };
-		4FE5169C1DAC202D00670741 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FE5169B1DAC202D00670741 /* Storyboard.storyboard */; };
+		4FE5169C1DAC202D00670741 /* Blue.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FE5169B1DAC202D00670741 /* Blue.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +35,7 @@
 		4FE516651DAC165D00670741 /* BlueFeatureTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueFeatureTests.swift; sourceTree = "<group>"; };
 		4FE516671DAC165D00670741 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FE516991DAC1CA000670741 /* Blue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Blue.swift; sourceTree = "<group>"; };
-		4FE5169B1DAC202D00670741 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		4FE5169B1DAC202D00670741 /* Blue.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Blue.storyboard; sourceTree = "<group>"; };
 		70469DE2685B64AC23CB3A7A /* Pods-BlueFeatureTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlueFeatureTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlueFeatureTests/Pods-BlueFeatureTests.debug.xcconfig"; sourceTree = "<group>"; };
 		70AB36719C3FAB9CFB6B1553 /* Pods_BlueFeatureTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlueFeatureTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C67D64ACB8F420DB5123BF27 /* Pods-BlueFeature.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlueFeature.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlueFeature/Pods-BlueFeature.debug.xcconfig"; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 				4FE5165A1DAC165D00670741 /* BlueFeature.h */,
 				4FE5165B1DAC165D00670741 /* Info.plist */,
 				4FE516991DAC1CA000670741 /* Blue.swift */,
-				4FE5169B1DAC202D00670741 /* Storyboard.storyboard */,
+				4FE5169B1DAC202D00670741 /* Blue.storyboard */,
 			);
 			path = BlueFeature;
 			sourceTree = "<group>";
@@ -225,7 +225,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4FE5169C1DAC202D00670741 /* Storyboard.storyboard in Resources */,
+				4FE5169C1DAC202D00670741 /* Blue.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
