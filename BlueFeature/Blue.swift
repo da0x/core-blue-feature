@@ -9,8 +9,10 @@
 import Foundation
 import Protocol
 
-class Blue : Feature {
-    func create() -> Feature {
+public class Blue : Feature {
+    init(){}
+    public func create() -> Feature {
+        let _ = SomethingElse()
         return Blue()
     }
 }
