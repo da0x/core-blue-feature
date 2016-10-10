@@ -10,7 +10,7 @@ import Foundation
 import Protocol
 
 public class Blue : Feature {
-    init(){}
+    public init(){}
     public func create() -> Feature {
         let _ = SomethingElse()
         return Blue()

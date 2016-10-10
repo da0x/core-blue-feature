@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BlueFeature"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "BlueFeature is good."
   s.description  = "Test feature that is distributed as a pod."
   s.homepage     = "https://github.com/daher-alfawares/core-blue-feature"
